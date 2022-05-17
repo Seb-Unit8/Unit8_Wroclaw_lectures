@@ -1,5 +1,6 @@
 # Lecture 1
 
+* [Lecture recording](https://drive.google.com/file/d/1HDu-ygVM4gKMtJiXKvFfajRqtWukNByL/view?usp=sharing)
 * Slides [pdf](./Lecture_1.pdf)
 * Notebooks 1/2 (launch jupyter to run)
 * Install jupyter/pymc3 using the instructions in the top level [README](../README.md)
