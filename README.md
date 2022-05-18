@@ -19,3 +19,20 @@ This is frankly the better way however you will need to use the command line.
 4. Run `conda env create -f environment.yml`
 5. Activate the environment using `conda activate bayes_env`
 6. Launch jupyter with `jupyter lab`
+
+## Google colab
+#### You can load the repository in google colab. To set up the environment, add and run these cells at the top of a notebook
+
+### Conda
+```
+!pip install -q condacolab
+import condacolab
+condacolab.install()
+```
+(Note the kernel restarts so you can't combine the cells)
+
+```
+import condacolab
+condacolab.check()
+!mamba install pymc matplotlib
+```
