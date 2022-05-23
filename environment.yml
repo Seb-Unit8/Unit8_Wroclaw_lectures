@@ -7,3 +7,5 @@ dependencies:
   - pip=22.1
   - pymc=4.0.0b5
   - arviz=0.12.1
+  - graphviz=2.48.0
+  - jupyterlab=3.3.2
